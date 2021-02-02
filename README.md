@@ -15,7 +15,7 @@
  ---------|---------
  Amman    | Ajloiun 
  ### Extra Notes 
- * Any words between two tildes will be crossed out ~~ word ~~
+ * Any words between two tildes will be crossed out ~~word~~
  * You can insert Emojis as well here :smiley:
 
 
