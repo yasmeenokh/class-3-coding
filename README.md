@@ -3,7 +3,6 @@ I am yasmeen Al-khateeb, I am a pharmacist I have graduated from Petra Universit
 ## **Table of content**
 **File name**| **URL**
 -------------|--------
-README   |https://yasmeenokh.github.io/reading-notes/ReadME 
  markdown | https://yasmeenokh.github.io/reading-notes/marke_down  
 git_tutorial | https://yasmeenokh.github.io/reading-notes/git_tutorial 
 
