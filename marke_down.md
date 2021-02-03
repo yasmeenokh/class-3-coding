@@ -13,11 +13,11 @@
  hyphens are used to represnt the rows and pipes are used to represent columns 
 
  Adress 1 | Adress 2
- 
+
  ---------|---------
  Amman    | Ajloiun 
  
- ### Extra Notes 
+ ## Extra Notes 
  * Any words between two tildes will be crossed out ~~word~~
  * You can insert Emojis as well here :smiley:
 

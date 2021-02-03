@@ -4,9 +4,11 @@ I am yasmeen Al-khateeb, I am a pharmacist I have graduated from Petra Universit
 
 **File name**| **URL**
 -------------|--------
- mark_down | https://yasmeenokh.github.io/reading-notes/marke_down  
-git_tutorial | https://yasmeenokh.github.io/reading-notes/git_tutorial 
-growth_mindset | [growth_mindset.md](https://yasmeenokh.github.io/reading-notes/growth_mindset.md)
+ mark_down | [marke_down](https://yasmeenokh.github.io/reading-notes/marke_down)  
+git_tutorial | [git_tutorial](https://yasmeenokh.github.io/reading-notes/git_tutorial)
+growth_mindset | [growth_mindset](https://yasmeenokh.github.io/reading-notes/growth_mindset.md)
+
+
 
 
 
