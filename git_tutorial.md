@@ -62,6 +62,5 @@ GIT depends on local operations, which allows you to proceed work on a project e
 - Then you will be asked to enter your user name and your password 
 - when changes are done but are not ready to be commited a stash command is used, which will remove them and keep them hidden, and when you want to continue your work **git stash apply** command is used. 
 
-
     
 
