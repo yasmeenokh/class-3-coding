@@ -7,6 +7,9 @@ I am yasmeen Al-khateeb, I am a pharmacist I have graduated from Petra Universit
  mark_down | [marke_down](https://yasmeenokh.github.io/reading-notes/marke_down)  
 git_tutorial | [git_tutorial](https://yasmeenokh.github.io/reading-notes/git_tutorial)
 growth_mindset | [growth_mindset](https://yasmeenokh.github.io/reading-notes/growth_mindset.md)
+chapter_one   | [chapter_one](https://yasmeenokh.github.io/reading-notes/chapter_one)
+chapter_eight | [chapter_eight](https://yasmeenokh.github.io/reading-notes/chapter_eight)
+chapter_seventeen | [chapter_seventeen](https://yasmeenokh.github.io/reading-notes/chapter_eight)
 
 
 
