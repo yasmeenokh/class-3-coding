@@ -4,8 +4,7 @@
 
 **The Tag**   | **It’s meaning**
 --------------| --------------- 
-
-<-- text -- > | to add a comment, this will not be visible to the user, but it’s viewed in the source code. 
+ 
 < div >       | groups a set of elements in block level box.
 < span >      | inline equivalent of the < div >. 
 < ifram >     | a window that is cut into your page. Like when a Google map is added to the page.
