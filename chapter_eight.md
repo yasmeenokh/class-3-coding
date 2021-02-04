@@ -1,7 +1,7 @@
 # **Chapter 8** 
 
-## Extra Markup 
-### Some tags meanings:
+## **Extra Markup**  
+### **Some tags meanings:** 
  
 1. < div >: groups a set of elements in block level box.
 2. < span >:  inline equivalent of the < div >. 

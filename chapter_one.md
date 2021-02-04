@@ -13,4 +13,4 @@
 -	The page shown to the user is normally a mix of html and css, received from the host of the site, which are comprehended by the host.
 ## **structure:** helps the users to understand the webpage. 
 -	HTML describes the structure of the page, so it contains texts, links, headings, etc.
--	HTML elements are made up of an opening < > and a closing <\> tags. 
+-	HTML elements are made up of an opening < > and a closing <\ > tags. 
