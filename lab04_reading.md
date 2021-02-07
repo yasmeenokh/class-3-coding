@@ -27,7 +27,10 @@
     - Links to allow the user to move from one part of the page to another.
 
 Links are created by using the "< a >" element, you specify which page you want to link by using "href" attribute.
+
 ***for example*** 
+
+
 ![Example 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5mibponwJR59Rar_F-qKQVhuq9PfCEGLhw&usqp=CAU) 
 
 - In the example above you can see how links are added, note that the "text" in the example is to be filled with the text to be shown to the user. 
