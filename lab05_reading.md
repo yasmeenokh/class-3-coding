@@ -17,7 +17,7 @@ To differentiate between different types of input data, information is sent to t
 It carries the URL for the server that will receive the information submitted. | Is how the form is sent, it can be sent by get or post.
 
 
-
+***The differance between get and post***
 
 **Get** | **Post**
 ------------|-------------   
