@@ -45,19 +45,19 @@ For short list **radio** is better to be used, **drop down list** is better to b
 ![radio example](radioinhtml.jpg)
 
 ## **Labels**
-     Each form control should have its own label element.
+Each form control should have its own label element.
 
-	- **For** attribute to state which form control the label belongs to. 
+	1. **For** attribute to state which form control the label belongs to. 
 
     **Best places to place labels:**
 
-   - Above or to the left: text inputs, text areas, select box, file uploads. 
+    2. Above or to the left: text inputs, text areas, select box, file uploads. 
 
-   - To the right: individual checkbox, radio buttons. 
+    3. To the right: individual checkbox, radio buttons. 
   
   ## **Grouping form element 
-
-     By using **fieldset** element; important for long forms. **Legend** element is used to identify the     purpose of the form group. 
+  
+  By using **fieldset** element; important for long forms. **Legend** element is used to identify the     purpose of the form group. 
 
 ## **Form validation:**
 
