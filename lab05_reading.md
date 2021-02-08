@@ -47,13 +47,13 @@ For short list **radio** is better to be used, **drop down list** is better to b
 ## **Labels**
 Each form control should have its own label element.
 
-	1. **For** attribute to state which form control the label belongs to. 
+1. **For** attribute to state which form control the label belongs to. 
 
-    **Best places to place labels:**
+**Best places to place labels:**
 
-    2. Above or to the left: text inputs, text areas, select box, file uploads. 
+2. Above or to the left: text inputs, text areas, select box, file uploads. 
 
-    3. To the right: individual checkbox, radio buttons. 
+ 3. To the right: individual checkbox, radio buttons. 
   
   ## **Grouping form element 
   
