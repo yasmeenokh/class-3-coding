@@ -23,6 +23,7 @@ Adds the form value to the URL end specified in the action attribute. Used for s
 
 **Id:** is used to differentiate a form from other elements in the page.  
 ###  **Checkbox:** 
+
 ![check box example](checkbox.jpg)
 
 Allows the user to select one or more option, **name** attribute is added and sends selected values to the server. 
@@ -37,6 +38,8 @@ Allows the user to select one option from a drop down list. Select element is us
 
 **NOTE** 
 For short list **radio** is better to be used, **drop down list** is better to be used for long lists.
+
+![radio example](radio in html.jpg)
 
 ## **Labels**
      Each form control should have its own label element. 
