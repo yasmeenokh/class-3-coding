@@ -32,14 +32,15 @@ Allows the user to select one or more option, **name** attribute is added and se
 
 ### **Drop down list:**
 
-![drop down example](drop down list.jpg)
+![drop down example](dropdownlist.jpg)
 
 Allows the user to select one option from a drop down list. Select element is used to create a drop down list. Option element is used to specify an option selected by the user. It uses a closing tag, and a **value** attribute to indicate the value sent to the server. 
 
 **NOTE** 
+
 For short list **radio** is better to be used, **drop down list** is better to be used for long lists.
 
-![radio example](radio in html.jpg)
+![radio example](radioinhtml.jpg)
 
 ## **Labels**
      Each form control should have its own label element. 
