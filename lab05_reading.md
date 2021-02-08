@@ -1,6 +1,6 @@
 # **Reading 05:**
 
-## ** How forms are work** 
+## **How forms are work** 
 
 A form is filled by a user with a certain information and then submitted to the server. The server processes the information using a programming language, it can also be saved in a data base. The browser then sends a new page with a massage based on the information received. 
 
@@ -15,6 +15,8 @@ To differentiate between different types of input data, information is sent to t
 **Action**  | **method**
 -----------------|---------------
 It carries the URL for the server that will receive the information submitted. | Is how the form is sent, it can be sent by get or post.
+
+
 
 
 **Get** | **Post**
@@ -43,13 +45,15 @@ For short list **radio** is better to be used, **drop down list** is better to b
 ![radio example](radioinhtml.jpg)
 
 ## **Labels**
-     Each form control should have its own label element. 
--	**For** attribute to state which form control the label belongs to. 
+     Each form control should have its own label element.
+
+	- **For** attribute to state which form control the label belongs to. 
 
     **Best places to place labels:**
 
--	Above or to the left: text inputs, text areas, select box, file uploads. 
--	To the right: individual checkbox, radio buttons. 
+   - Above or to the left: text inputs, text areas, select box, file uploads. 
+
+   - To the right: individual checkbox, radio buttons. 
   
   ## **Grouping form element 
 
