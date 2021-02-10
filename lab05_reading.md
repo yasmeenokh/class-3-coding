@@ -1,71 +1,63 @@
 # **Reading 05:**
 
-## **How forms are work** 
+## **Evaluating Conditions:** 
 
-A form is filled by a user with a certain information and then submitted to the server. The server processes the information using a programming language, it can also be saved in a data base. The browser then sends a new page with a massage based on the information received. 
+You can evaluate a condition by comparing a value to what you expect it might be, the result is boolen; true, false. 
 
 **NOTE**
 
-To differentiate between different types of input data, information is sent to the browser using “name/value” in pair. 
+Every value can be treated as tru or false even if is not a boolen. 
 
-## **Form Structure** 
-
-**Form** element is used, it uses an **action** attribute and may have a **method** and **id** attribute. 
-
-**Action**  | **method**
------------------|---------------
-It carries the URL for the server that will receive the information submitted. | Is how the form is sent, it can be sent by get or post.
+### **Logical Operators** 
 
 
-***The differance between get and post***
+**And Vs or**
 
-**Get** | **Post**
-------------|-------------   
-Adds the form value to the URL end specified in the action attribute. Used for short forms, or when data is retrieved from the web.| values are set in HTTP headers. Used to upload files or when forms are long, or contain a sensitive data, or add, delete information from a data form. 
 
-**Id:** is used to differentiate a form from other elements in the page.  
-###  **Checkbox:** 
+![andvsor](https://res.cloudinary.com/practicaldev/image/fetch/s--AaxWL-V---/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://cl.ly/7d9cf8370380/Image%25202018-11-15%2520at%25209.59.47%2520AM.png)
 
-![check box example](checkbox.jpg)
 
-Allows the user to select one or more option, **name** attribute is added and sends selected values to the server. 
 
-**Value** indicate the value sent to the server if a box is checked. A value can be checked by defaulf by adding checked attribute. 
+**comparision**
 
-### **Drop down list:**
+![operators](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
 
-![drop down example](dropdownlist.jpg)
 
-Allows the user to select one option from a drop down list. Select element is used to create a drop down list. Option element is used to specify an option selected by the user. It uses a closing tag, and a **value** attribute to indicate the value sent to the server. 
 
-**NOTE** 
+## **Loops**
 
-For short list **radio** is better to be used, **drop down list** is better to be used for long lists.
+Checks a condition if true a code block will run. It repeats until the condition return false 
 
-![radio example](radioinhtml.jpg)
 
-## **Labels**
-Each form control should have its own label element.
 
-1. **For** attribute to state which form control the label belongs to. 
+### **Types of loops:** 
 
-**Best places to place labels:**
+**For** | **While**| **Do While** 
 
-2. Above or to the left: text inputs, text areas, select box, file uploads. 
+--------|----------|------------
 
- 3. To the right: individual checkbox, radio buttons. 
-  
-  ## **Grouping form element 
-  
-  By using **fieldset** element; important for long forms. **Legend** element is used to identify the     purpose of the form group. 
+To run a code a specific number of times, the condition is normally a counter. | If you don't know how many times you want to run the code, the code will continue to loop as long as the condition is true. | It will run the condition at least once even if the condition is false. 
 
-## **Form validation:**
 
-To make sure a field is filled by the user, this reduces the amount of the work done by the server. It also enables the users to identify problems with the form faster. 
 
-**NOTE** 
 
-**Input** is used to determine the type the texts inserted.
+
+### **For condition** 
+
+![for condition](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/for-Statement.png)
+
+
+
+## **While condition**
+
+![while condition](https://www.tutorialspoint.com/javascript/images/while_loop.jpg)
+
+
+
+## **Do While condition** 
+
+![do while](https://media.geeksforgeeks.org/wp-content/uploads/20191118154342/do-while-Loop-GeeksforGeeks2.jpg)
+
 
 
 
