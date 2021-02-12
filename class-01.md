@@ -78,4 +78,29 @@ in the < head> it contain information about the web page, not visible to the use
 
 
 # **Chapter 18**
-## 
+## **Process and Design**
+
+### **Basic rules**
+1. First thing you need to do is to understand your target audience, you should determine age range, gender, country, occupation, etc.
+2. Determine the " why are users visiting the website ".
+3. Determine what information the user need to achieve their goals.
+4. Organize and design the way you want to display your page (site map). 
+
+### **Wireframes**
+is a sketch of the main informations that need to be displayed in each part. This ensures including all information that needs to shown. 
+
+### **Page design** 
+page design plays a key role in delivering the website's idea and helps the user to understnad the webpage. 
+
+## **Visual Hierarchy** 
+* Contrast is highly used to creat visual hierarchy. 
+* Different font size, color and style also gelps to grap the user's attention. 
+* Grouping related pieces of information makes the design easier to comprehend. 
+
+### **Desiging Navigation** 
+is mainly used to let the user find where to go, and show what is the website is about, and how it's organized. 
+
+**NOTE** 
+Good navigation must be **concise**, **clear**, **selective**.
+
+
