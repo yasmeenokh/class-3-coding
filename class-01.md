@@ -87,11 +87,11 @@ is a sketch of the main informations that need to be displayed in each part. Thi
 page design plays a key role in delivering the website's idea and helps the user to understnad the webpage. 
 
 ## **Visual Hierarchy** 
-* Contrast is highly used to creat visual hierarchy. 
+* Contrast is highly used to create visual hierarchy. 
 * Different font size, color and style also gelps to grap the user's attention. 
 * Grouping related pieces of information makes the design easier to comprehend. 
 
-### **Desiging Navigation** 
+### **Designing  Navigation** 
 is mainly used to let the user find where to go, and show what is the website is about, and how it's organized. 
 
 **NOTE** 
@@ -99,5 +99,23 @@ Good navigation must be **concise**, **clear**, **selective**.
 
 
 # **Chapter 1 from JS**
+## **What is a script?**
+it as a series of instructions, a computer follows to achieve a goal. 
 
+### **How to write a script** 
+1. Define the aim of the script and what task should be done when applying it.
+2. Design the script, split the aim into parts, a step by step instuctions (flow chart). 
+3. Code each step, in a language understood by the computer. 
+![flow chart](https://www.conceptdraw.com/How-To-Guide/picture/Flowchart-Example2.png)
+
+### **Terminologies we need to understand**
+* Properties: describe characteristics of current webpage. 
+* Method: performs tasks related to the document loaded in the browser. 
+* Events: are the user's response or interaction with the page elements. 
+
+### **How HTML, CSS, and JS work together?** 
+![one](https://brytdesigns.com/wp-content/uploads/2019/12/html_css_javascript_infographic.png)
+
+**NOTES**
+* When incorporating a JS code into a HTML file, it is best practice to keep it in it's own JS file, and then add it as an extension.
 
