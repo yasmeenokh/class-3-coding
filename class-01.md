@@ -55,12 +55,16 @@ groups a set of elements in block level box. |inline equivalent of the < div >. 
 
 -------------|---------------------------------------------
 < article>   | a container for any section.
+
 -------------|---------------------------------------------
 < aside>     | when it is used in an < article> element, contains related but not essential, outside  an < article> element it acts as a container. 
+
 -------------|---------------------------------------------
 < section>   | it relates content together 
+
 -------------|---------------------------------------------
 < hgroup>    | heading group, to group a set of one or more heading, so they are treated as a single head. 
+
 -------------|---------------------------------------------
 < figures>   | < figures> < figcaption>, it is used when the content references the element and not something integral to the page flow.
 
