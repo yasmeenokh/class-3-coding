@@ -52,6 +52,7 @@ groups a set of elements in block level box. |inline equivalent of the < div >. 
 
 
 < nav>       | used to contain the main navigational blocks.
+
 -------------|---------------------------------------------
 < article>   | a container for any section.
 -------------|---------------------------------------------
@@ -72,9 +73,11 @@ groups a set of elements in block level box. |inline equivalent of the < div >. 
 2. Determine the " why are users visiting the website ".
 3. Determine what information the user need to achieve their goals.
 4. Organize and design the way you want to display your page (site map). 
+![sit map](https://blog.hubspot.com/hs-fs/hubfs/visual-sitemap-example.png?t=1539226974890&width=667&height=223&name=visual-sitemap-example.png)
 
 ### **Wireframes**
 is a sketch of the main informations that need to be displayed in each part. This ensures including all information that needs to shown. 
+![wire frame](https://blog.hubspot.com/hs-fs/hubfs/dyno-mapper-sitemap-generator.png?t=1539226974890&width=566&name=dyno-mapper-sitemap-generator.png)
 
 ### **Page design** 
 page design plays a key role in delivering the website's idea and helps the user to understnad the webpage. 
@@ -89,5 +92,8 @@ is mainly used to let the user find where to go, and show what is the website is
 
 **NOTE** 
 Good navigation must be **concise**, **clear**, **selective**.
+
+
+# **Chapter 1 from JS**
 
 
