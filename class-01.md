@@ -27,8 +27,8 @@
 ### **Some tags meanings:** 
  
  < div > | < span > | < ifram > | < meta>
- 
------------|----------|-----------|---------
+
+---------|----------|-----------|---------
 groups a set of elements in block level box. | 
 inline equivalent of the < div >. | 
 a window that is cut into your page. Like when a Google map is added to the page. | 
