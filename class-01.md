@@ -27,6 +27,7 @@
 ### **Some tags meanings:** 
  
 < div > | < span > | < ifram > | < meta>
+
 ---------|----------|-----------|---------
 groups a set of elements in block level box. | 
 inline equivalent of the < div >. | 
@@ -52,17 +53,17 @@ in the < head> it contain information about the web page, not visible to the use
 
 ## **Some elements meaning**
 
-< nav>     | used to contain the main navigational blocks.
+< nav>       | used to contain the main navigational blocks.
 -----------|---------------------------------------------
-< article> | a container for any section.
+< article>   | a container for any section.
 -----------|---------------------------------------------
-< aside>   | when it is used in an < article> element, contains related but not essential, outside  an < article> element it acts as a container. 
+< aside>     | when it is used in an < article> element, contains related but not essential, outside  an < article> element it acts as a container. 
 -----------|---------------------------------------------
-< section> | it relates content together 
+< section>   | it relates content together 
 -----------|---------------------------------------------
-< hgroup>  | heading group, to group a set of one or more heading, so they are treated as a single head. 
+< hgroup>    | heading group, to group a set of one or more heading, so they are treated as a single head. 
 -----------|---------------------------------------------
-< figures> | < figures> < figcaption>, it is used when the content references the element and not something integral to the page flow.
+< figures>   | < figures> < figcaption>, it is used when the content references the element and not something integral to the page flow.
 
 
 # **Chapter 18**
