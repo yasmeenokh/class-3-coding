@@ -28,7 +28,7 @@
  
 < div >  | < span > | < ifram > | < meta>
 
----------|----------|-----------|---------
+-------------|-------------|-------------|-------------
 groups a set of elements in block level box. |inline equivalent of the < div >. |a window that is cut into your page. Like when a Google map is added to the page. |in the < head> it contain information about the web page, not visible to the user.
 
 **NOTES** 
@@ -50,7 +50,8 @@ groups a set of elements in block level box. |inline equivalent of the < div >. 
 
 ## **Some elements meaning**
 
-< nav>| used to contain the main navigational blocks.
+
+< nav>       | used to contain the main navigational blocks.
 -------------|---------------------------------------------
 < article>   | a container for any section.
 -------------|---------------------------------------------
