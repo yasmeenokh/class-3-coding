@@ -76,18 +76,27 @@ Allows programmers to creat a single value from one or more values.
 ![types](https://www.bookofnetwork.com/images/javascript-images/JS_Type-of-Operators_17Sep16_1822.png)
 
 1. Assignment operators:
+
 ![assignment](https://image.slidesharecdn.com/7080f1d7-6a29-4f62-a522-e4f07b2a28f2-151202125134-lva1-app6891/95/javascript-linkedin-18-638.jpg?cb=1449060798)
 
+
 2. Arithmetic operators:
+
 ![arithmic](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
 
+
 3. Relational operators: 
+
 ![Relational](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Relational-or-Comparison-Operator.png)
 
+
 4. Logical operators:
+
 ![logical](https://cdn.educba.com/academy/wp-content/uploads/2020/01/Logical-Operators-in-JavaScript.jpg)
 
+
 5. Conditional operators: 
+
 ![condi](https://www.educative.io/api/edpresso/shot/4869454544502784/image/5465049184337920)
 
 # **Chapter 4 from JS book**
