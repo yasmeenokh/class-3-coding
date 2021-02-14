@@ -2,7 +2,7 @@
 
 * functions allow you to group a series of statements togather to perform a specific task.
 * A statement in a function is not always executed when a page loads. 
-* Some functions nedd to be provided with information to perform a task, these picese ot information are known as parameters. 
+* Some functions neeed to be provided with information to perform a task, these picese ot information are known as parameters. 
 * programming language often relay upon name/value pairs 
 
 ## **Function declaration** 
