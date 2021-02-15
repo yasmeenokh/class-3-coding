@@ -3,9 +3,9 @@
 
 **Types of lists** 
 
-ordered list | unorderd list | definition list 
+ordered list | unordered  list | definition list 
 -------------|---------------|----------------
-a numbered list | uses bullet points | a set of terms a long with their defentions 
+a numbered list | uses bullet points | a set of terms a long with their definitions  
 -------------|------------|-------------
 < ol > </ ol > tags and then each item is list in < li > </ li> tags| < ul> </ ul> tags and then each item is list in < li > </ li> tags| < dl> </ dl > tags and then < dt > </ dt > to list each term, and < dd> </dd> to contain the definition. 
 
@@ -16,7 +16,7 @@ a numbered list | uses bullet points | a set of terms a long with their defentio
 
 **Edits you can do to each box:** 
 
-* you can change it's width and hight, we do so by using pixels, percentages, or
+* you can change it's width and height, we do so by using pixels, percentages, or
 ems.
 * min-width/ max width and min-height/ max-height are used to ensure that the content of the page is shown in the suitable way in all different sizes of devices. 
 * overflow is used when the content of a box is bigger than the box, this property can hide any extra content that doesn't fit, or add a scrollbar.
@@ -44,7 +44,7 @@ We still use the var keyword, for example
 var type= ["number" , "string" , "boleen"]
 
 **NOTE**
-Values in arrays are delt with as if they are in a numbered list. 
+Values in arrays are dealt with as if they are in a numbered list. 
 It is important to know that numbering starts at zero not one.
 Each item is automatically given a number known as index. 
 
@@ -53,7 +53,7 @@ Each item is automatically given a number known as index.
 
 ![if stat.](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-else-statment.png)
  
-If determines wether a condition is true or not, if true the first code block will run, if not the second code block will run.
+If determines whether a condition is true or not, if true the first code block will run, if not the second code block will run.
 
 ![syntax](https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-statement.png)
 
