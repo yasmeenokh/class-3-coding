@@ -27,8 +27,8 @@ One can choose the wanted color by three ways:
 
 
 RGB values | HEX code | color name 
------------|----------|-----------
 
+-----------|----------|-----------
 This express the colors in terms of how red, green, and bule are used to make it up. | These are six digit codes that represents the amount of red, green, and blue preceeded by hash. | There are 147 predifined color names. 
 
 
