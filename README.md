@@ -21,6 +21,12 @@ lab06 | [lab06](https://yasmeenokh.github.io/reading-notes/lab06_reading)
 **File Name** | **URL** 
 --------------|---------
 CLASS01       | [class01](https://yasmeenokh.github.io/reading-notes/class-01)
+--------------|-----------
+CLASS02       | [class01](https://yasmeenokh.github.io/reading-notes/class-02)
+--------------|------------
+CLASS03       | [class03](https://yasmeenokh.github.io/reading-notes/class-03)
+--------------|--------------
+CLASS04       | [class04](https://yasmeenokh.github.io/reading-notes/class-04)
 
 
 
