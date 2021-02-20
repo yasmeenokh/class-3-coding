@@ -25,12 +25,4 @@ CLASS02       | [class01](https://yasmeenokh.github.io/reading-notes/class-02)
 CLASS03       | [class03](https://yasmeenokh.github.io/reading-notes/class-03)
 CLASS04       | [class04](https://yasmeenokh.github.io/reading-notes/class-04)
 CLASS05       | [class05](https://yasmeenokh.github.io/reading-notes/class-05)
-
-
-
-
-
-
-
-
-
+CLASS06       | [class06](https://yasmeenokh.github.io/reading-notes/class-06)

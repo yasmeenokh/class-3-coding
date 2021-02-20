@@ -91,7 +91,7 @@ when you add content using innerHTML this can cause Cross-Site Scripting Attacks
 
 *Creating attributes*
 
-!(creating)[https://www.encodedna.com/javascript/create-dynamic-ul-and-li-using-javascript.png]
+![creating](https://www.encodedna.com/javascript/create-dynamic-ul-and-li-using-javascript.png)
 
 
 
