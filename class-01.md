@@ -4,7 +4,7 @@
 
 **We first should clarify some terminologies:**
 
--	 **Browser:** a software which opens websites examples; Fire Fox, Internet Explorer, Chrome, Opera.
+-	**Browser:** a software which opens websites examples; Fire Fox, Internet Explorer, Chrome, Opera.
 -	**Webserver:** what hosts a website when a web page is asked for in the browser, this command is sent through the internet to the web server.
 -	**Screen readers:** programs that read the content of a computer screen to users.
 -	**DNS:** Domain Name System, what allows the user to open a website from different parts of the world.
