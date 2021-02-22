@@ -35,6 +35,5 @@ Arrays are a type of object, since they key for each value is its index.
 2. DOCUMENT OBJECT MODEL
 3. GLOBAL JAVASCRIPT OBJECTS
 
-
-
+![buILT](https://i.imgur.com/J3ETg5D.png) 
 
