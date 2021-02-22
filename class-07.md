@@ -20,3 +20,21 @@ In HTML a table is written out row by row.
 ## **Functions, Methods, and Objects** 
 
 ### **Creating an object: 
+* we frist staret with new Object to create a blank object after that we start adding properties and methods inside it using dot notation. 
+* updating or deleting content is done by dot notation or by using square brackets.
+
+**Objects can be created by: 
+1. LITERAL NOTATION 
+2. OBJECT CONSTRUCTOR NOTATION
+
+**NOTE** 
+Arrays are a type of object, since they key for each value is its index.
+
+### **BUILT-IN OBJECTS**
+1. BROWSER OBJECT MODEL
+2. DOCUMENT OBJECT MODEL
+3. GLOBAL JAVASCRIPT OBJECTS
+
+
+
+
