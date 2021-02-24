@@ -11,9 +11,9 @@
 - name of each form control and value sent to server
 - backend processes it, may send to database
 - server creates new page for user based on information received 
-<form> action method id
-<input> size type name maxlength
-<textarea>
+< form > action method id
+< input > size type name maxlength
+< textarea >
 
 ## **Lists** 
 1. There are several elements that are specifically used to control the appearance of lists, tables, and forms.
