@@ -20,9 +20,12 @@ lab06 | [lab06](https://yasmeenokh.github.io/reading-notes/lab06_reading)
 
 **File Name** | **URL** 
 --------------|-----------
-CLASS01       | [class01](https://yasmeenokh.github.io/reading-notes/class-01)
-CLASS02       | [class01](https://yasmeenokh.github.io/reading-notes/class-02)
-CLASS03       | [class03](https://yasmeenokh.github.io/reading-notes/class-03)
-CLASS04       | [class04](https://yasmeenokh.github.io/reading-notes/class-04)
-CLASS05       | [class05](https://yasmeenokh.github.io/reading-notes/class-05)
-CLASS06       | [class06](https://yasmeenokh.github.io/reading-notes/class06)
+CLASS 01      | [class01](https://yasmeenokh.github.io/reading-notes/class-01)
+CLASS 02      | [class01](https://yasmeenokh.github.io/reading-notes/class-02)
+CLASS 03      | [class03](https://yasmeenokh.github.io/reading-notes/class-03)
+CLASS 04      | [class04](https://yasmeenokh.github.io/reading-notes/class-04)
+CLASS 05      | [class05](https://yasmeenokh.github.io/reading-notes/class-05)
+CLASS 06      | [class06](https://yasmeenokh.github.io/reading-notes/class06)
+CLASS 07      | [class07](https://yasmeenokh.github.io/reading-notes/class-07)   
+CLASS 08      | [class08](https://yasmeenokh.github.io/reading-notes/class-08)
+CLASS 09      | [class09](https://yasmeenokh.github.io/reading-notes/class-09)
