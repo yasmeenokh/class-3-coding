@@ -54,3 +54,9 @@ To choose which web hosting to go for you should look into :
 3. Backups
 4. Email accounts
 5. Server-side languages and databases
+
+## **video and audio**
+The < video> and < audio> elements allow us to embed video and audio into web pages. 
+
+### **The HTMLMediaElement API**
+Part of the HTML5 spec, the HTMLMediaElement API provides features to allow you to control video and audio players programmatically — for example HTMLMediaElement.play(), HTMLMediaElement.pause(), etc.
