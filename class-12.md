@@ -25,7 +25,7 @@ getContext(); method that takes one parameter; is used to obtain the rendering c
 Normally 1 unit in the grid corresponds to 1 pixel on the canvas
 
 ### **Drawing rectangles**
- <canvas> only supports two primitive shapes: rectangles and paths. 
+ < canvas > only supports two primitive shapes: rectangles and paths. 
 
 **Functions to draw a rectangle:**
 1. fillRect(x, y, width, height) this draws a filled rectangle.
