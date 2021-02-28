@@ -34,6 +34,7 @@ Normally 1 unit in the grid corresponds to 1 pixel on the canvas
 
 ### **Drawing paths**
 A path is a list of points, connected by segments of lines that can be of different shapes. 
+
 **Steps to draw a path**
 1. beginPath()
 2. Path methods
