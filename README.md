@@ -33,12 +33,12 @@ CLASS 06      | [class06](https://yasmeenokh.github.io/reading-notes/class06)
 CLASS 07      | [class07](https://yasmeenokh.github.io/reading-notes/class-07)   
 CLASS 08      | [class08](https://yasmeenokh.github.io/reading-notes/class-08)
 CLASS 09      | [class09](https://yasmeenokh.github.io/reading-notes/class09)
-ClASS 10      | [class10] (https://yasmeenokh.github.io/reading-notes/class-10)
-ClASS 11      | [class10] (https://yasmeenokh.github.io/reading-notes/class-11)
-ClASS 12      | [class10] (https://yasmeenokh.github.io/reading-notes/class-12)
-ClASS 13      | [class10] (https://yasmeenokh.github.io/reading-notes/class-13)
-ClASS 14a     | [class10] (https://yasmeenokh.github.io/reading-notes/class-14a)
-ClASS 14b     | [class10] (https://yasmeenokh.github.io/reading-notes/class-14b)
+ClASS 10      | [class10](https://yasmeenokh.github.io/reading-notes/class-10)
+ClASS 11      | [class10](https://yasmeenokh.github.io/reading-notes/class-11)
+ClASS 12      | [class10](https://yasmeenokh.github.io/reading-notes/class-12)
+ClASS 13      | [class10](https://yasmeenokh.github.io/reading-notes/class-13)
+ClASS 14a     | [class10](https://yasmeenokh.github.io/reading-notes/class-14a)
+ClASS 14b     | [class10](https://yasmeenokh.github.io/reading-notes/class-14b)
 
 
 
