@@ -9,7 +9,6 @@
 Responsive | to react quickly and positively to any change.
 -----------|-----------------------------------
 Adaptive   | to be easily modified for a new purpose or situation, such as change.
------------|-----------------------------------
 Mobile     | to build a separate website commonly on a new domain solely for mobile users.
 
 ## Flexible Layouts

@@ -50,4 +50,5 @@ ClASS 14b     | [class14b](https://yasmeenokh.github.io/reading-notes/class-14b)
 
 **File Name** | **URL** 
 --------------|-----------
+Class 01      |[Read 1](https://yasmeenokh.github.io/reading-notes/code103-Read-01)
 
