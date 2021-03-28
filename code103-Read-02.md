@@ -45,7 +45,7 @@ methods.
 3. .addClass()
 4. .removeClass()
 
-*** We can also get and set CSS properties using .css() method. ***
+***We can also get and set CSS properties using .css() method.***
 
 ### jQuery allows you to recreate the functionality of a loop on a selection of elements 
 * .each() : Allows you to perform one or more statements on each of the items in the selection of elements that is returned by a selector - rather like a loop in JavaScript.
