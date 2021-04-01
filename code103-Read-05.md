@@ -38,30 +38,31 @@ This authentication is required for both the heroku and git commands to work cor
 
 Prepare the app $git clone
 
-$ cd node-js-getting-started
-$ heroku create
-$ git push heroku main
-$ heroku ps:scale web=1
-$ heroku open
-$ heroku logs --tail
+    $ cd node-js-getting-started
+    $ heroku create
+    $ git push heroku main
+    $ heroku ps:scale web=1
+    $ heroku open
+    $ heroku logs --tail
 
-web: npm start
+    web: npm start
 
 **Scale the app** 
-$ heroku ps
-$ heroku ps:scale web=0
-$ heroku ps:scale web=1
+    $ heroku ps
+    $ heroku ps:scale web=0
+    $ heroku ps:scale web=1
 
 **Declare app dependencies**
-Heroku recognizes an app as Node.js by the existence of a package.json file in the root directory. For your own apps, you can create one by running npm init --yes.
+Heroku recognizes an app as Node.js by the existence of a package.json file in the root directory. For your own apps, you can create one by running     npm init --yes.
 
-Run this command in your local directory to install the dependencies, preparing your system for running the app locally: $ npm install
+Run this command in your local directory to install the dependencies, preparing your system for running the app locally: 
+    $ npm install
 
 Run the app locally
-$ heroku local web
+    $ heroku local web
 
 Push local changes
-$ npm install cool-ascii-faces
+    $ npm install cool-ascii-faces
 
 
 
