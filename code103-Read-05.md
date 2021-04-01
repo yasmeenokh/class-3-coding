@@ -32,32 +32,24 @@ This command opens your web browser to the Heroku login page.
 
 This authentication is required for both the heroku and git commands to work correctly.
 
-$ node --version
-
-$ npm --version
-
-$ git --version
+`<addr>`$ node --version
+`<addr>`$ npm --version
+`<addr>`$ git --version
 
 Prepare the app $git clone
+
 $ cd node-js-getting-started
-
 $ heroku create
-
 $ git push heroku main
-
 $ heroku ps:scale web=1
-
 $ heroku open
-
 $ heroku logs --tail
 
 web: npm start
 
 **Scale the app** 
 $ heroku ps
-
 $ heroku ps:scale web=0
-
 $ heroku ps:scale web=1
 
 **Declare app dependencies**
