@@ -1,6 +1,6 @@
 
 # Heroku Deploy
-[logo](http://photos.prnewswire.com/prnfull/20110712/SF33967LOGO?max=200)
+![logo](http://photos.prnewswire.com/prnfull/20110712/SF33967LOGO?max=200)
 
 Heroku is a cloud platform as a service supporting several programming languages. it is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
 
@@ -32,9 +32,9 @@ This command opens your web browser to the Heroku login page.
 
 This authentication is required for both the heroku and git commands to work correctly.
 
-`<addr>`$ node --version
-`<addr>`$ npm --version
-`<addr>`$ git --version
+    $ node --version
+    $ npm --version
+    $ git --version
 
 Prepare the app $git clone
 
