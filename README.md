@@ -50,7 +50,12 @@ ClASS 14b     | [class14b](https://yasmeenokh.github.io/reading-notes/class-14b)
 
 **File Name** | **URL** 
 --------------|-----------
-Class 01      |[Read 1](https://yasmeenokh.github.io/reading-notes/code103-Read-01)
+Class 01      | [Read 1](https://yasmeenokh.github.io/reading-notes/code103-Read-01)
 Class 02      | [Read 2](https://yasmeenokh.github.io/reading-notes/code103-Read-02)
 Class 03      | [Read 2](https://yasmeenokh.github.io/reading-notes/code103-Read-03)
+Class 04      | [Read 3](https://yasmeenokh.github.io/reading-notes/code103-Read-04)
+Class 05      | [Read 3](https://yasmeenokh.github.io/reading-notes/code103-Read-05)
+Class 06      | [Read 3](https://yasmeenokh.github.io/reading-notes/code103-Read-06)
+Class 07      | [Read 3](https://yasmeenokh.github.io/reading-notes/code103-Read-07)
+
 
