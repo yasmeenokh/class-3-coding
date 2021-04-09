@@ -58,5 +58,8 @@ Class 05      | [Read 5](https://yasmeenokh.github.io/reading-notes/code103-Read
 Class 06      | [Read 6](https://yasmeenokh.github.io/reading-notes/code103-Read-06)
 Class 07      | [Read 7](https://yasmeenokh.github.io/reading-notes/code103-Read-07)
 Class 08      | [Read 8](https://yasmeenokh.github.io/reading-notes/code103-Read-08)
+Class 09      | [Read 8](https://yasmeenokh.github.io/reading-notes/code103-Read-09)
+Class 10      | [Read 8](https://yasmeenokh.github.io/reading-notes/code103-Read-10)
+Class 11      | [Read 8](https://yasmeenokh.github.io/reading-notes/code103-Read-11)
 
 
