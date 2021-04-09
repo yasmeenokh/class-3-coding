@@ -14,6 +14,7 @@
 
 - Get Started
 to install it
+
         $ npm install ejs
 
         npm install --save express body-parser cors ejs
