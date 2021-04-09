@@ -16,7 +16,7 @@
 to install it
         $ npm install ejs
 
-    npm install --save express body-parser cors ejs
+        npm install --save express body-parser cors ejs
 
 #### Tags
 1. <% 'Scriptlet' tag, for control-flow, no output.
