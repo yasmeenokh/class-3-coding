@@ -21,4 +21,5 @@ Partials come in handy when you want to reuse the same HTML across multiple view
 
 7.      <%-include(PARTIAL_FILE) %> 
 put this where you want the included content to be.
+
 8. don't forget the  (-) .
