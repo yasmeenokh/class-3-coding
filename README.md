@@ -62,6 +62,7 @@ Class 09      | [Read 9](https://yasmeenokh.github.io/reading-notes/code103-Read
 Class 10      | [Read 10](https://yasmeenokh.github.io/reading-notes/code103-Read-10)
 Class 11      | [Read 11](https://yasmeenokh.github.io/reading-notes/code103-Read-11)
 Class 12      | [Read 12](https://yasmeenokh.github.io/reading-notes/code103-Read-12)
+Class 13      | [Read 12](https://yasmeenokh.github.io/reading-notes/code103-Read-13)
 
 
 
