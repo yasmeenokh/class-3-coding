@@ -21,7 +21,7 @@ The <form> element defines how the data will be sent. All of its attributes are 
 
 2. Set the value of enctype to multipart/form-data because the data will be split into multiple parts, one for each file plus one for the text data included in the form body (if text is also entered into the form).
 
-3. Include one or more <input type="file"> controls to allow your users to select the file(s) that will be uploaded.
+3. Include one or more < input type="file"> controls to allow your users to select the file(s) that will be uploaded.
 
 ### Security issues
 Escape potentially dangerous characters. The specific characters you should be cautious with vary depending on the context in which the data is used and the server platform you employ, but all server-side languages have functions for this. 
