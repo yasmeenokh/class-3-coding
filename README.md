@@ -1,9 +1,6 @@
 # **DESCRIPTION** 
 This site contains all of my notes about our readings regarding Web design with HTML javanScript and CSS. 
 
-## ***About me***
-I am Yasmeen Al-khateeb, I am a pharmacist I have graduated from Petra University back in 2018. I have worked as a pharmacist in a community pharmacy for about two years, after that I quit my job, and i was unemployed for a year and a half. Which eventually lead me to try to do a career shift.  
-
 ## **Code 102 - Intro to Software Development**
 
 **File name**| **URL**
@@ -68,3 +65,4 @@ Class 15      | [Read 14](https://yasmeenokh.github.io/reading-notes/code103-Rea
 
 
 
+## **Code 401 - Advanced Software Development**
