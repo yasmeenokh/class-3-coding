@@ -50,7 +50,7 @@ They can both be used to update resources in a given location.
 ## Preparation Materials
 
 ### Express/Node introduction
-**NODE** : s an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context.
+**NODE** : an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context.
 **Node Advantages**
 1. Node was designed to optimize throughput and scalability in web applications and is a good solution for many common web-development problems.
 2. Code is written in plain old JavaScript.
