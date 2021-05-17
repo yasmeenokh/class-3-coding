@@ -52,13 +52,13 @@ They can both be used to update resources in a given location.
 ### Express/Node introduction
 **NODE** : s an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context.
 **Node Advantages**
-1. ode was designed to optimize throughput and scalability in web applications and is a good solution for many common web-development problems.
+1. Node was designed to optimize throughput and scalability in web applications and is a good solution for many common web-development problems.
 2. Code is written in plain old JavaScript.
 3. JavaScript is a relatively new programming language and benefits from improvements in language design when compared to other traditional web-server languages.
 4. The node package manager (NPM) provides access to hundreds of thousands of reusable packages.
 5. Node.js is portable.
 
-**Express**: s the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks. 
+**Express**: the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks. 
 
 #### Why Express?
 1. Write handlers for requests with different HTTP verbs at different URL paths (routes).
