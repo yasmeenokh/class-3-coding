@@ -72,3 +72,4 @@ Class 15      | [Read 14](https://yasmeenokh.github.io/reading-notes/301/code103
 PrepRead      | [PREP](https://yasmeenokh.github.io/reading-notes/401/prepRead)
 Class-02      | [READ 02](https://yasmeenokh.github.io/reading-notes/401/class-02)
 Class-03      | [READ 03](https://yasmeenokh.github.io/reading-notes/401/class-03)
+Class-04      | [READ 04](https://yasmeenokh.github.io/reading-notes/401/class-04)
