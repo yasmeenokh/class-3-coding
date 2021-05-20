@@ -2,8 +2,9 @@
 
 ![linkedlist](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png)
 
+
 **A Linked List** is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
-<hr>
+
 ## ***Type of linked list:***
 
 ![types of linkedlist](https://prepinsta.com/wp-content/uploads/2020/06/Types-of-Linked-Lists.webp)
