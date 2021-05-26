@@ -76,3 +76,4 @@ Class-05      | [READ 05](https://yasmeenokh.github.io/reading-notes/401/class-0
 Class-06      | [READ 06](https://yasmeenokh.github.io/reading-notes/401/class-06)
 Class-07      | [READ 07](https://yasmeenokh.github.io/reading-notes/401/class-07)
 Class-08      | [READ 08](https://yasmeenokh.github.io/reading-notes/401/class-08)
+Class-10      | [READ 08](https://yasmeenokh.github.io/reading-notes/401/class-10)
