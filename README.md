@@ -79,3 +79,4 @@ Class-08      | [READ 08](https://yasmeenokh.github.io/reading-notes/401/class-0
 Class-09      | [READ 09](https://yasmeenokh.github.io/reading-notes/401/class-09)
 Class-10      | [READ 10](https://yasmeenokh.github.io/reading-notes/401/class-10)
 Class-11      | [READ 11](https://yasmeenokh.github.io/reading-notes/401/class-11)
+Class-12      | [READ 12](https://yasmeenokh.github.io/reading-notes/401/class-12)
