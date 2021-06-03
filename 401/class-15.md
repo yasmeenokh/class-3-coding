@@ -1,13 +1,20 @@
 # Trees
 
 ## Common Terminology
-**Root:** The root is the node at the beginning of the tree
+
+**Root:** The root is the node at the beginning of the tree.
+
 **K:** A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
-**Left:** A reference to one child node, in a binary tree
-**Right:** A reference to the other child node, in a binary tree
-**Edge:** The edge in a tree is the link between a parent and child node
-**Leaf:** A leaf is a node that does not have any children
-**Height:** The height of a tree is the number of edges from the root to the furthest leaf
+
+**Left:** A reference to one child node, in a binary tree.
+
+**Right:** A reference to the other child node, in a binary tree.
+
+**Edge:** The edge in a tree is the link between a parent and child node.
+
+**Leaf:** A leaf is a node that does not have any children.
+
+**Height:** The height of a tree is the number of edges from the root to the furthest leaf.
 
 ![tree](https://reactgo.com/static/7f89ae4896c007403969537c52ea2103/27524/tree-datastructure-diagram.png)
 
