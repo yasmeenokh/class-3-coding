@@ -83,3 +83,4 @@ Class-12      | [READ 12](https://yasmeenokh.github.io/reading-notes/401/class-1
 Class-13      | [READ 13](https://yasmeenokh.github.io/reading-notes/401/class-13)
 Class-14      | [READ 14](https://yasmeenokh.github.io/reading-notes/401/class-14)
 Class-15      | [READ 15](https://yasmeenokh.github.io/reading-notes/401/class-15)
+Class-16      | [READ 16](https://yasmeenokh.github.io/reading-notes/401/class-16)
