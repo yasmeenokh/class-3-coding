@@ -1,15 +1,19 @@
 # Review, Research, and Discussion
+
 1. What are serverless functions?
 
 Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers.
 
 2. If you were to create a system that emulated Lambda functions, how would you do it?
+
 I will use an event driven functions, that needs to be executed only when needed or called for example in JavaScript I will use event listener to listen on certain event by the user and upon that event the function is run.
 
 3. Describe how a CDN works
+
 To minimize the distance between the visitors and your website’s server, a CDN stores a cached version of its content in multiple geographical locations (a.k.a., points of presence, or PoPs). Each PoP contains a number of caching servers responsible for content delivery to visitors within its proximity.
 
 # Vocabulary Terms
+
 **Serverless Functions:** is a programmatic function written by a software developer for a single purpose. It's then hosted and maintained on infrastructure by cloud computing companies. These companies take care of code maintenance and execution so that developers can deploy new code faster and easier.
 
 **Cloud Storage:** Cloud storage is a model of computer data storage in which the digital data is stored in logical pools, said to be on "the cloud". The physical storage spans multiple servers, and the physical environment is typically owned and managed by a hosting company.
@@ -27,7 +31,9 @@ Amazon API Gateway is a managed service that allows developers to define the HTT
 * API Gateway sits between the backend services of your API and your API’s users, handling the HTTP requests to your API endpoints and routing them to the correct backends. It provides a set of tools that help you manage your API definitions and the mappings between endpoints and their respective backend services. It can also generate API references from your definitions and make them available to your users as API documentation.
 
 ### DynamoDB
+
 #### What is DynamoDB?
+
 **DynamoDB is a hosted NoSQL database offered by Amazon Web Services (AWS). It offers:**
 
 * reliable performance even as it scales.
