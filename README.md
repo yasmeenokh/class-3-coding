@@ -90,5 +90,7 @@ Class-19      | [READ 19](https://yasmeenokh.github.io/reading-notes/401/class-1
 Class-20      | [READ 20](https://yasmeenokh.github.io/reading-notes/401/class-20)
 Class-21      | [READ 21](https://yasmeenokh.github.io/reading-notes/401/class-21)
 Class-22      | [READ 22](https://yasmeenokh.github.io/reading-notes/401/class-22)
+Class-23      | [READ 22](https://yasmeenokh.github.io/reading-notes/401/class-23)
+
 
 
