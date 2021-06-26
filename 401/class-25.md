@@ -6,7 +6,7 @@ Using react BrowserRouter allows us to navigate from one route to another, witho
 
 2. If we wanted a component to show up on every page, where would we put it and why?
 
-    Inside the <BrowserRouter />, outside a <Route />
+    Inside the **< BrowserRouter />**, outside a **< Route />**
 
 3. What does props.children contain?
 
@@ -20,7 +20,7 @@ it is used to display whatever you include between the opening and closing tags 
 
 **Hash Routing:** is using the anchor part of the URL to simulate different content. For example http://site.com/#/products/list leads to displaying a list of products. We have to mention that the #/products/list bit is never sent to the server.
 
-**Link Routing:** Provides declarative, accessible navigation around your application, to: string, to: object, to: function. **<Link>** will render a fully accessible anchor tag with the proper href.
+**Link Routing:** Provides declarative, accessible navigation around your application, to: string, to: object, to: function. **< Link>** will render a fully accessible anchor tag with the proper href.
 
 # Preview
 
