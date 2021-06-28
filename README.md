@@ -93,6 +93,7 @@ Class-22      | [READ 22](https://yasmeenokh.github.io/reading-notes/401/class-2
 Class-23      | [READ 23](https://yasmeenokh.github.io/reading-notes/401/class-23)
 Class-24      | [READ 24](https://yasmeenokh.github.io/reading-notes/401/class-24)
 Class-25      | [READ 25](https://yasmeenokh.github.io/reading-notes/401/class-25)
+Class-26      | [READ 26](https://yasmeenokh.github.io/reading-notes/401/class-26)
 
 
 
