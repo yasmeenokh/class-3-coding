@@ -98,6 +98,7 @@ Class-27      | [READ 27](https://yasmeenokh.github.io/reading-notes/401/class-2
 Class-28      | [READ 28](https://yasmeenokh.github.io/reading-notes/401/class-28)
 Class-29      | [READ 29](https://yasmeenokh.github.io/reading-notes/401/class-29)
 Class-30      | [READ 30](https://yasmeenokh.github.io/reading-notes/401/class-30)
+Class-31      | [READ 31](https://yasmeenokh.github.io/reading-notes/401/class-31)
 
 
 
