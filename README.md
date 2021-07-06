@@ -100,6 +100,7 @@ Class-29      | [READ 29](https://yasmeenokh.github.io/reading-notes/401/class-2
 Class-30      | [READ 30](https://yasmeenokh.github.io/reading-notes/401/class-30)
 Class-31      | [READ 31](https://yasmeenokh.github.io/reading-notes/401/class-31)
 Class-32      | [READ 32](https://yasmeenokh.github.io/reading-notes/401/class-32)
+Class-33      | [READ 33](https://yasmeenokh.github.io/reading-notes/401/class-33)
 
 
 
